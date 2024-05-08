@@ -11,4 +11,4 @@ M8Lx Kodland Python Pro
 > 
 
 ### Beberapa artikel panduan yang membantu saya selama pengembangan proyek 
-- [BMKG: ancaman nyata perubahan iklim] (https://www.bmkg.go.id/press-release/?p=di-lokakarya-iklim-internasional-bali-bmkg-kembali-ingatkan-dahsyatnya-dampak-perubahan-iklim&tag=press-release&lang=ID)
+- [BMKG: ancaman nyata perubahan iklim](https://www.bmkg.go.id/press-release/?p=di-lokakarya-iklim-internasional-bali-bmkg-kembali-ingatkan-dahsyatnya-dampak-perubahan-iklim&tag=press-release&lang=ID)
