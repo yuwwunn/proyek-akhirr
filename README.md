@@ -9,7 +9,7 @@ _M8L4 Kodland Python Pro_
 
 ## 🌤️ Referensi (kode) yang digunakan:
   - [Referensi ke-1](https://github.com/yenchiah/project-website-template)
-  - [Referensi ke-2]()
+  - [Referensi ke-2](https://github.com/GitKodland/Calculator---ind/tree/form)
 
 ## 🗺️ Beberapa artikel yang membantu saya: 
 > _Artikel dibawah digunakan sebagai pencerahan tentang topik yang terkait!_
