@@ -1,11 +1,12 @@
 # proyek-akhirr
-M8L1
+M8Lx Kodland Python Pro
 
-## Inilah jenis proyek saya:
-> 
+## Proyek yang akan saya buat
+> Ialah proyek sebuah WEBSITE yang akan mengedukasi masyarakat/pengguna tentang _Climate Change_ yang sedang dialami Bumi dalam waktu yang singkat ini. Dengan beberapa pencegahan dan upaya dalam menangani nya (secara individu dan kelompok).
 
-## Pustaka yang akan saya gunakan: - Pustaka 1 - Pustaka N
+## Pustaka yang digunakan: 
 
-## Referensi yang berguna: - Referensi 1 - Referensi N
+## Referensi yang digunakan:
 
-## Artikel panduan yang akan membantu saya selama pengembangan [kata yang dapat diklik yang akan berisi tautan] (https://link_to_the_article)
+### Beberapa artikel panduan yang membantu saya selama pengembangan proyek 
+(https://www.bmkg.go.id/press-release/?p=di-lokakarya-iklim-internasional-bali-bmkg-kembali-ingatkan-dahsyatnya-dampak-perubahan-iklim&tag=press-release&lang=ID)
