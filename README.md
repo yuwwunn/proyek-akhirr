@@ -17,10 +17,12 @@ _M8L4 Kodland Python Pro_
 
   - [BMKG: ancaman nyata perubahan iklim](https://www.bmkg.go.id/press-release/?p=di-lokakarya-iklim-internasional-bali-bmkg-kembali-ingatkan-dahsyatnya-dampak-perubahan-iklim&tag=press-release&lang=ID)
   - [BMKG: dampak perubahan iklim](https://www.bmkg.go.id/press-release/?p=atasi-krisis-air-bmkg-teknologi-dan-kearifan-lokal-jadi-jurus-ampuh&tag=press-release&lang=ID)
+  - [PBB: apa itu perubahan iklim?](https://indonesia.un.org/id/172909-apa-itu-perubahan-iklim)
+  - [Wikipedia: perubahan iklim](https://id.wikipedia.org/wiki/Perubahan_iklim)
 
 ## ✔️ Checklists (for me):
 - [x] Install Pustaka
-- [ ] Buat Proyek
+- [x] Buat Proyek
 - [ ] Selesaikan Proyek
   
 # Terimakasih sudah mengunjungi~
