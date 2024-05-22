@@ -25,7 +25,7 @@ _M8L4 Kodland Python Pro: Climate Change Education Web_
 - [x] Install Pustaka
 - [x] Kerjakan Proyek
 - [x] Ask for help (if needed)
-- [ ] Selesaikan Proyek
+- [ ] Selesaikan Proyek dan presentasi
   
 # Terimakasih sudah mengunjungi~
 > ![ThankYouStickerThanksStickerGIF](https://github.com/yuwwunn/proyek-akhirr/assets/148557241/28ffe843-9f0a-4451-89d4-7b9227930770)
