@@ -21,9 +21,10 @@ _M8L4 Kodland Python Pro: Climate Change Education Web_
   - [PBB: apa itu perubahan iklim?](https://indonesia.un.org/id/172909-apa-itu-perubahan-iklim)
   - [Wikipedia: perubahan iklim](https://id.wikipedia.org/wiki/Perubahan_iklim)
 
-## ✔️ Checklists (for me):
+## ✔️ To-do list (for me):
 - [x] Install Pustaka
-- [x] Buat Proyek
+- [x] Kerjakan Proyek
+- [x] Ask for help (if needed)
 - [ ] Selesaikan Proyek
   
 # Terimakasih sudah mengunjungi~
