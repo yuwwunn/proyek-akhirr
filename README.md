@@ -4,8 +4,9 @@ _M8L4 Kodland Python Pro_
 ## Proyek yang akan saya buat!
 > _Ialah proyek sebuah WEBSITE yang akan mengedukasi masyarakat/pengguna tentang _Climate Change_ yang sedang dialami Bumi dalam waktu yang singkat ini. Dengan beberapa pencegahan dan upaya dalam menangani nya (secara individu dan kelompok)._
 
-## 📖 Pustaka yang digunakan: 
-  - 
+## 📖 Programming Language yang digunakan: 
+  - HTML
+  - CSS
 
 ## 🌤️ Referensi (kode) yang digunakan:
   - [Referensi ke-1](https://github.com/yenchiah/project-website-template)
