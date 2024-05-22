@@ -4,7 +4,7 @@ _M8L4 Kodland Python Pro: Climate Change Education Web_
 ## Proyek yang akan saya buat!
 > _Ialah proyek sebuah WEBSITE yang akan mengedukasi masyarakat/pengguna tentang _Climate Change_ yang sedang dialami Bumi dalam waktu yang singkat ini. Dengan beberapa pencegahan dan upaya dalam menangani nya (secara individu dan kelompok)._
 
-## 📖 Programming Language yang digunakan: 
+## 📖 Programming Language(s) yang digunakan: 
   - HTML
   - CSS
 
