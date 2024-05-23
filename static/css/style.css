@@ -62,7 +62,7 @@ ul {
 
 .main-list {
   display: flex;
-  gap: 90px;
+  gap: 50px;
 }
 
 .list-item__link {
@@ -195,9 +195,6 @@ ul {
 
 .upaya {
   margin-bottom: 200px;
-  display: flex;
-  flex-direction: column;
-  gap: 80px;
 }
 
 .upaya__title {
