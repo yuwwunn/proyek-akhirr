@@ -15,7 +15,7 @@ body {
   font-size: 20px;
   line-height: 26px;
   letter-spacing: 0.1em;
-  background: linear-gradient(180deg, #000000 0%, #778095 100%);
+  background: linear-gradient(180deg, #1b1825 0%, #697aa1 100%);
   color: #ffffff; 
 }
 
@@ -52,7 +52,7 @@ ul {
   justify-content: center;
   margin: 8px 10%;
   width: 80%;
-  background-color: #151c2493;
+  background-color: #0f161f93;
   border-radius: 10px;
   top: 0;
   left: 0;
@@ -112,7 +112,7 @@ ul {
   letter-spacing: 0.01em;
   font-size: 70px;
   text-align: center;
-  color: #AC3C5B;
+  color: #cc4269;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
@@ -132,7 +132,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #7CB89D;
+  color: #b5a6f5;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -160,7 +160,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #7CB89D;
+  color: #b5a6f5;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -201,7 +201,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #7CB89D;
+  color: #b5a6f5;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -232,7 +232,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color:#7CB89D;
+  color:#b5a6f5;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -268,7 +268,7 @@ ul {
   width: 100%;
   font: inherit;
   background: #192224;
-  border: 2px solid #7CB89D;
+  border: 2px solid #ffb8cd;
   color: #fff;
   padding: 15px;
   border-radius: 10px;
